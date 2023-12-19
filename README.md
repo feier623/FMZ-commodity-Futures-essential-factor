@@ -1,3 +1,3 @@
-# FMZ-domestic-commodity-Futures-essential-factor
+# FMZ-commodity-Futures-essential-factor
 获取中国期货市场所有期货品种的历史价格，分析主力合约的当前价格处于历史的第几百分位。
 获取中国期货市场所有期货品种的总保证金比例、最小变动价位、交易单位（每手合约乘数）、手续费，计算一个最小变动价位扣除买卖手续费后的盈利金额及占总保证金的比例。
